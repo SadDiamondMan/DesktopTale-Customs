@@ -1,0 +1,23 @@
+Name: Split-Soul (Right)
+Category: Custom Souls
+Idle:
+  Up:
+    Sprite: Soul_R.png
+    FrameRate: 0
+    FrameCount: 1
+    StartFrame: 0
+  Down:
+    Sprite: Soul_R.png
+    FrameRate: 0
+    FrameCount: 1
+    StartFrame: 0
+  Left:
+    Sprite: Soul_R.png
+    FrameRate: 0
+    FrameCount: 1
+    StartFrame: 0
+  Right:
+    Sprite: Soul_R.png
+    FrameRate: 0
+    FrameCount: 1
+    StartFrame: 0

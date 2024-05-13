@@ -1,0 +1,24 @@
+Name: Freddy (Fnaf World) V1
+Category: miscellaneous
+Idle:
+  Down:
+    Sprite: idle.png
+    FrameRate: 0
+    FrameCount: 1
+    StartFrame: 0
+Walk:
+  Down:
+    Sprite: down.png
+    FrameRate: 30
+    FrameCount: 15
+    StartFrame: 0
+  Up:
+    Sprite: up.png
+    FrameRate: 30
+    FrameCount: 15
+    StartFrame: 0
+  Left:
+    Sprite: left.png
+    FrameRate: 30
+    FrameCount: 15
+    StartFrame: 0

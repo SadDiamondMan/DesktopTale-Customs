@@ -1,0 +1,16 @@
+Name: K.Round
+Category: Deltarune
+WalkSpeed: 90
+RunSpeed: 180
+Idle:
+  Down:
+    Sprite: idle.png
+    FrameRate: 8
+    FrameCount: 6
+    StartFrame: 0
+Walk:
+  Down:
+    Sprite: left.png
+    FrameRate: 10
+    FrameCount: 8
+    StartFrame: 0

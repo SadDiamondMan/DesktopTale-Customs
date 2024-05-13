@@ -1,0 +1,28 @@
+Name: Lumi
+Category: Outcore
+WalkSpeed: 360
+RunSpeed: 640
+Idle:
+  Down:
+    Sprite: left_idle.png
+    FrameRate: 4
+    FrameCount: 16
+    StartFrame: 0
+Walk:
+  Down:
+    Sprite: left_walk.png
+    FrameRate: 10
+    FrameCount: 8
+    StartFrame: 1
+Run:
+  Down:
+    Sprite: left_run.png
+    FrameRate: 10
+    FrameCount: 8
+    StartFrame: 0
+Drag:
+  Down:
+    Sprite: carry.png
+    FrameRate: 1
+    FrameCount: 1
+    StartFrame: 0

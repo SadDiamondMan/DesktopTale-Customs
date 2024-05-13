@@ -1,0 +1,68 @@
+Name: Fun Fax
+Category: Dark Place
+WalkSpeed: 540
+RunSpeed: 900
+Scale: 1
+Idle:
+  Up:
+    Sprite: watching.png
+    FrameRate: 0
+    FrameCount: 1
+    StartFrame: 0
+  Down:
+    Sprite: watching.png
+    FrameRate: 0
+    FrameCount: 1
+    StartFrame: 0
+  Left:
+    Sprite: watching.png
+    FrameRate: 0
+    FrameCount: 1
+    StartFrame: 0
+  Right:
+    Sprite: watching.png
+    FrameRate: 0
+    FrameCount: 1
+    StartFrame: 0
+Walk:
+  Up:
+    Sprite: watching.png
+    FrameRate: 0
+    FrameCount: 1
+    StartFrame: 0
+  Down:
+    Sprite: watching.png
+    FrameRate: 0
+    FrameCount: 1
+    StartFrame: 0
+  Left:
+    Sprite: watching.png
+    FrameRate: 0
+    FrameCount: 1
+    StartFrame: 0
+  Right:
+    Sprite: watching.png
+    FrameRate: 0
+    FrameCount: 1
+    StartFrame: 0
+Action:
+  Up:
+    Sprite: searching.png
+    FrameRate: 0
+    FrameCount: 1
+    StartFrame: 0
+  Down:
+    Sprite: searching.png
+    FrameRate: 0
+    FrameCount: 1
+    StartFrame: 0
+  Left:
+    Sprite: searching.png
+    FrameRate: 0
+    FrameCount: 1
+    StartFrame: 0
+  Right:
+    Sprite: searching.png
+    FrameRate: 0
+    FrameCount: 1
+    StartFrame: 0

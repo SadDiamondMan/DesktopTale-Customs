@@ -1,0 +1,40 @@
+Name: Spamgolor
+Category: Dark Place
+Idle:
+  Up:
+    Sprite: idle.png
+    FrameRate: 0
+    FrameCount: 1
+    StartFrame: 0
+  Down:
+    Sprite: idle.png
+    FrameRate: 0
+    FrameCount: 1
+    StartFrame: 0
+  Left:
+    Sprite: idle.png
+    FrameRate: 0
+    FrameCount: 1
+    StartFrame: 0
+Walk:
+  Up:
+    Sprite: idle.png
+    FrameRate: 0
+    FrameCount: 1
+    StartFrame: 0
+  Down:
+    Sprite: idle.png
+    FrameRate: 0
+    FrameCount: 1
+    StartFrame: 0
+  Left:
+    Sprite: idle.png
+    FrameRate: 0
+    FrameCount: 1
+    StartFrame: 0
+Action:
+  Down:
+    Sprite: glitch.png
+    FrameRate: 3
+    FrameCount: 3
+    StartFrame: 0

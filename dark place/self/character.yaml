@@ -1,0 +1,34 @@
+Name: Self
+Category: Dark Place
+Idle:
+  Up:
+    Sprite: up.png
+    FrameRate: 0
+    FrameCount: 4
+    StartFrame: 0
+  Down:
+    Sprite: down.png
+    FrameRate: 0
+    FrameCount: 4
+    StartFrame: 0
+  Left:
+    Sprite: left.png
+    FrameRate: 0
+    FrameCount: 4
+    StartFrame: 0
+Walk:
+  Up:
+    Sprite: up.png
+    FrameRate: 5
+    FrameCount: 4
+    StartFrame: 1
+  Down:
+    Sprite: down.png
+    FrameRate: 5
+    FrameCount: 4
+    StartFrame: 1
+  Left:
+    Sprite: left.png
+    FrameRate: 5
+    FrameCount: 4
+    StartFrame: 1

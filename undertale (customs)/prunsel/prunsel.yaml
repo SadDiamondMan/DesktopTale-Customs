@@ -1,52 +1,44 @@
-Name: Wing Gaster! The Royal Scientist!
-Category: Undertale Customs
-WalkSpeed: 90
-RunSpeed: 180
+Name: Prunsel
+Category: Undertale (Customs)
 Idle:
   Up:
-    Sprite: up.png
+    Sprite: prunsel.png
     FrameRate: 0
     FrameCount: 1
     StartFrame: 0
   Down:
-    Sprite: down.png
+    Sprite: prunsel.png
     FrameRate: 0
     FrameCount: 1
     StartFrame: 0
   Left:
-    Sprite: left.png
+    Sprite: prunsel.png
     FrameRate: 0
     FrameCount: 1
     StartFrame: 0
   Right:
-    Sprite: right.png
+    Sprite: prunsel.png
     FrameRate: 0
     FrameCount: 1
     StartFrame: 0
 Walk:
   Up:
-    Sprite: up.png
+    Sprite: prunsel.png
     FrameRate: 0
     FrameCount: 1
     StartFrame: 0
   Down:
-    Sprite: down.png
+    Sprite: prunsel.png
     FrameRate: 0
     FrameCount: 1
     StartFrame: 0
   Left:
-    Sprite: left.png
+    Sprite: prunsel.png
     FrameRate: 0
     FrameCount: 1
     StartFrame: 0
   Right:
-    Sprite: right.png
+    Sprite: prunsel.png
     FrameRate: 0
     FrameCount: 1
-    StartFrame: 0
-Action:
-  Down:
-    Sprite: fall.png
-    FrameRate: 30
-    FrameCount: 13
     StartFrame: 0

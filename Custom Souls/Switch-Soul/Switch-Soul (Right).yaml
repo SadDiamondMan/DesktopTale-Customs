@@ -1,23 +1,23 @@
-Name: Split-Soul (Left)
+Name: Switch-Soul (Right)
 Category: Custom Souls
 Idle:
   Up:
-    Sprite: Soul_L.png
+    Sprite: Soul_R.png
     FrameRate: 0
     FrameCount: 1
     StartFrame: 0
   Down:
-    Sprite: Soul_L.png
+    Sprite: Soul_R.png
     FrameRate: 0
     FrameCount: 1
     StartFrame: 0
   Left:
-    Sprite: Soul_L.png
+    Sprite: Soul_R.png
     FrameRate: 0
     FrameCount: 1
     StartFrame: 0
   Right:
-    Sprite: Soul_L.png
+    Sprite: Soul_R.png
     FrameRate: 0
     FrameCount: 1
     StartFrame: 0
